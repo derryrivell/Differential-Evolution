@@ -4,7 +4,7 @@ Implementing Differential Evolution (DE) Algorithm in Global Optimization Proble
 
 # Setting
 
-Install the lastest version of [Matlab](https://www.mathworks.com/products/matlab.html) or you can use [Matlab online](https://www.mathworks.com/products/matlab-online.html).
+Install the lastest version of [Matlab Software](https://www.mathworks.com/products/matlab.html) or you can use [Matlab online](https://www.mathworks.com/products/matlab-online.html).
 
 # Example Output
 
