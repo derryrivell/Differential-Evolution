@@ -1,6 +1,6 @@
 # Differential Evolution Algorithm
 
-Implementing Differential Evolution (DE) Algorithm in Global Optimization Problem for 16 Differentiable and Non-Differentiable Function, using Matlab R2021a.
+Implementing Differential Evolution (DE) Algorithm in Global Optimization Problem for 16 Differentiable and Non-Differentiable Functions using Matlab R2021a.
 
 # Setting
 
