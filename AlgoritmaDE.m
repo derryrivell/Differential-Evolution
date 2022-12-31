@@ -63,4 +63,4 @@ end
 hold off
 PlotXinSheYang2();
 hold on
-scatter3(X(ind,1),X(ind,1),FitnessMinimum,'fill','red');
+scatter3(X(ind,1),X(ind,1),FitnessMinimum,'fill','red')
