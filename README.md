@@ -1,1 +1,1 @@
-# Differential-Alghoritm
+# Differential-Algorithm
